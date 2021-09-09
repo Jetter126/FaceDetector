@@ -4,8 +4,8 @@
 ### Prerequisites for usage
 
 * haarcascade_frontalface_default.xml stored in the same
-  directory as the program, downloaded from GitHub at
-  https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+  directory as the program, downloaded from GitHub
+  [here](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 * Images to detect faces in
 * Text file "paths.txt" stored in the same directory as
   the program, containing the paths with filenames of
